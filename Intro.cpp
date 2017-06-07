@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout << "This repository has a few simple programs. " << endl;
+	cout << "This branch has a few simple widly used functions. " << endl;
 	return 0;
 } 
