@@ -1,2 +1,2 @@
 # First-project
-My first on GITHUB
+Getting more experienced and decided to make a branch about useful functions
